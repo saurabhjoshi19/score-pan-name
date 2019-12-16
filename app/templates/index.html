@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test HTML</title>
+</head>
+<body>
+    <h1>Score My PAN Name!</h1>
+    <form action='' method='post'>
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.applicant_name.label }}<br>
+            {{ form.applicant_name(size=32) }}<br>
+        </p>
+        <p>
+            {{ form.pan_name.label }}<br>
+            {{ form.pan_name(size=32) }}<br>
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+</body>
+</html>

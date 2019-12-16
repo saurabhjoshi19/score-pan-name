@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08cfa8ae-96db-450e-8e62-19d7a67b047a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UxXtd4vzOLdIsl7dSROj2SjYan" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08cfa8ae-96db-450e-8e62-19d7a67b047a" name="Default Changelist" comment="" />
+      <created>1576299435399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576299435399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="860" y="167" key="#Notifications" timestamp="1576507752697">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="860" y="167" key="#Notifications/0.23.1680.958@0.23.1680.958" timestamp="1576507752697" />
+    <state x="20" y="167" key="#Vim_Emulation" timestamp="1576472388554">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="20" y="167" key="#Vim_Emulation/0.23.1680.958@0.23.1680.958" timestamp="1576472388554" />
+    <state x="980" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576409337079">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="980" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.958@0.23.1680.958" timestamp="1576409337079" />
+    <state x="0" y="141" key="SettingsEditor" timestamp="1576301932189">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="0" y="141" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1576301932189" />
+    <state x="860" y="242" key="Vcs.Push.Dialog.v2" timestamp="1576507745415">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="860" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.958@0.23.1680.958" timestamp="1576507745415" />
+    <state x="97" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1576507564084">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="97" y="334" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576409196951" />
+    <state x="97" y="328" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1576507564084" />
+    <state x="97" y="329" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1576507070313" />
+    <state x="85" y="233" key="search.everywhere.popup" timestamp="1576470867374">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="85" y="233" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1576470867374" />
+  </component>
+</project>
